@@ -5,6 +5,7 @@ metadata:
   description: "New Doc Template"
   annotations:
     github.com/project-slug: ahmedadel2020-code/backstage-doc-template
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   lifecycle: experimental
