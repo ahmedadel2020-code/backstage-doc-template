@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "doc-template"
+  description: "New Doc Template"
+  annotations:
+    github.com/project-slug: ahmedadel2020-code/backstage-doc-template
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "group:default/gcp"
