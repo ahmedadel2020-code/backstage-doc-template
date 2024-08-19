@@ -1,5 +1,5 @@
 # doc-template
 
-New Doc Template
+New Doc Template from Github
 
 Owned by group:default/gcp
